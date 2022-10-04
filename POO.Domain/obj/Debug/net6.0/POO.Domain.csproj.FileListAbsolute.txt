@@ -1,0 +1,12 @@
+C:\Users\usuario\POO-study\POO.Domain\bin\Debug\net6.0\POO.Domain.deps.json
+C:\Users\usuario\POO-study\POO.Domain\bin\Debug\net6.0\POO.Domain.dll
+C:\Users\usuario\POO-study\POO.Domain\bin\Debug\net6.0\POO.Domain.pdb
+C:\Users\usuario\POO-study\POO.Domain\obj\Debug\net6.0\POO.Domain.csproj.AssemblyReference.cache
+C:\Users\usuario\POO-study\POO.Domain\obj\Debug\net6.0\POO.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\POO-study\POO.Domain\obj\Debug\net6.0\POO.Domain.AssemblyInfoInputs.cache
+C:\Users\usuario\POO-study\POO.Domain\obj\Debug\net6.0\POO.Domain.AssemblyInfo.cs
+C:\Users\usuario\POO-study\POO.Domain\obj\Debug\net6.0\POO.Domain.csproj.CoreCompileInputs.cache
+C:\Users\usuario\POO-study\POO.Domain\obj\Debug\net6.0\POO.Domain.dll
+C:\Users\usuario\POO-study\POO.Domain\obj\Debug\net6.0\refint\POO.Domain.dll
+C:\Users\usuario\POO-study\POO.Domain\obj\Debug\net6.0\POO.Domain.pdb
+C:\Users\usuario\POO-study\POO.Domain\obj\Debug\net6.0\ref\POO.Domain.dll
